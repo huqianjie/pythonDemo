@@ -2,6 +2,8 @@
 print("hello python1")
 print("new line 2 3")
 
+print("new line 4")
+print("new line 5")
 
 print("backspace")
 
