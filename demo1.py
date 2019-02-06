@@ -14,3 +14,6 @@ print("new line 6")
 
 print("new line 7")
 print("new line 8")
+
+print("new line 9")
+print("new line 10")
