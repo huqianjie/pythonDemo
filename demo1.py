@@ -1,3 +1,21 @@
 #!/usr/local/bin/python3
 print("hello python")
 
+
+print("new line 4")
+print("new line 5")
+
+print("backspace")
+
+print("new line 5")
+
+print("new line 6")
+
+
+print("new line 7")
+print("new line 8")
+print("new line 88")
+
+print("new line 9")
+print("new line 10")
+
