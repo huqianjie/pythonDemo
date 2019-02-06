@@ -10,3 +10,7 @@ print("backspace")
 print("new line 5")
 
 print("new line 6")
+
+
+print("new line 7")
+print("new line 8")
